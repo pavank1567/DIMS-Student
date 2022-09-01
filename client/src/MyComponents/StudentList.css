@@ -1,0 +1,17 @@
+.grid-container {
+    display: grid;
+    grid: auto / auto auto auto;
+    grid-auto-rows: auto;
+    padding: 10px;
+  }
+.card-name{
+    text-align: right;
+}
+.card-id{
+    text-align: right;
+    margin-top: 50px;
+}
+#card-btn{
+    text-align: right;
+    margin-top:25px;
+}
